@@ -1,4 +1,4 @@
-# SPICETIFY EASY STARTER
+# SPICETIFY LAUNCHER
 ## Short guide how to use my product (Guide include Enflish and Russian versions)
 ___
 
