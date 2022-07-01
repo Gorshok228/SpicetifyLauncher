@@ -5,7 +5,7 @@ ___
 
 ## English guide
 1. Downoald [spicitefy](https://github.com/spicetify).
-2. Downoald `.bat` file from [releases](https://github.com/Gorshok228/spicetifyEasyStart/releases/tag/start.
+2. Downoald `.bat` file from [releases](https://github.com/Gorshok228/spicetifyEasyStart/releases/tag/start).
 +    + To downoald this bat file, you need hust click on file named `SPicetifyStart.bat` .  
 +    + If your browser blocked this file, click on 3 dots and click on `keep`.
 +    + If after choosing `keep` there are is oppened new window, click on `Show more` and here click on `Keep anyway`.
@@ -16,7 +16,7 @@ ___
 ______
 
 ## Russian guide(Русский гайд)
-1. Скачиваем [spicitefy](https://github.com/spicetify.
+1. Скачиваем [spicitefy](https://github.com/spicetify).
 2. Скачиваем `.bat` из вкладки [Релизы](https://github.com/Gorshok228/spicetifyEasyStart/releases/tag/start).
 +   + Что бы скачать этот файл, вам нужно лпросто нажать на файл с названием `SPicetifyStart.bat`.
 +   + Если браузер блокирует файл, нажмите на 3 точки и нажмите на `Сохранить`.
