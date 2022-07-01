@@ -1,0 +1,2 @@
+start spotify
+Spicetify apply
