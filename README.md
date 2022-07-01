@@ -1,5 +1,5 @@
 # SPICETIFY LAUNCHER
-![GitHub all releases](https://img.shields.io/github/downloads/Gorshok228/SpicetifyEasyStart/total?color=orange)    ![GitHub issues](https://img.shields.io/github/issues/Gorshok228/SpicetifyEasyStart?color=red)
+![GitHub issues](https://img.shields.io/github/issues/Gorshok228/SpicetifyLauncher?color=red)   ![GitHub all releases](https://img.shields.io/github/downloads/Gorshok228/SpicetifyLauncher/total?color=orange)
 ## Short guide how to use my product (Guide include Enflish and Russian versions)
 ___
 
